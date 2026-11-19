@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="banner" width="100%">
+</p>
+
 # envguard
 
 A small CLI that does two jobs teams keep doing by hand:
